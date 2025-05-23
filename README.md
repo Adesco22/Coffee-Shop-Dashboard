@@ -44,7 +44,7 @@ The goal of this project was to transform transactional data into actionable ins
 4. Explore various insights and patterns using the interactive filtering features.
 
 ## Screenshots
-![Dashboard Screenshot](./finalized_dashboard-01,,)
+![Dashboard Screenshot](./finalized_dashboard_01)
 
 ## Technologies Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
