@@ -1,7 +1,5 @@
 # Coffee-Shop-Dashboard
 
-# Coffee Shop Dashboard
-
 ## Project Overview
 The **Coffee Shop Dashboard** project is designed for Maven Roosters Coffee Shop, a coffee shop chain with three locations in New York City. The dashboard enables franchise owners to monitor key business metrics, visualize trends, and identify areas for improvement using data collected in the first quarter of 2023.
 
@@ -46,7 +44,7 @@ The goal of this project was to transform transactional data into actionable ins
 4. Explore various insights and patterns using the interactive filtering features.
 
 ## Screenshots
-![Dashboard Screenshot](./)
+![Dashboard Screenshot](./finalized_dashboard-01,,)
 
 ## Technologies Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
